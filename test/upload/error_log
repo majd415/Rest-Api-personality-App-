@@ -1,0 +1,4 @@
+[28-Jul-2024 20:45:25 UTC] PHP Warning:  move_uploaded_file(/path/to/your/server/app_zaid/app_zaid/test/upload/victoria adm .pdf): Failed to open stream: No such file or directory in /home/drmouknm/public_html/app_zaid/app_zaid/test/upload/upload.php on line 19
+[28-Jul-2024 20:45:25 UTC] PHP Warning:  move_uploaded_file(): Unable to move &quot;/tmp/phptc4xkF&quot; to &quot;/path/to/your/server/app_zaid/app_zaid/test/upload/victoria adm .pdf&quot; in /home/drmouknm/public_html/app_zaid/app_zaid/test/upload/upload.php on line 19
+[28-Jul-2024 21:07:50 UTC] PHP Notice:  Only variables should be passed by reference in /home/drmouknm/public_html/app_zaid/app_zaid/test/upload/upload.php on line 17
+[28-Jul-2024 21:36:24 UTC] PHP Notice:  Only variables should be passed by reference in /home/drmouknm/public_html/app_zaid/app_zaid/test/upload/uploadNegative.php on line 17

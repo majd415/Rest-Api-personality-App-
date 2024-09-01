@@ -1,0 +1,18 @@
+[27-May-2024 10:46:33 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'cart_id' in 'where clause' in /home/univqzre/public_html/newtest/functions.php:143
+Stack trace:
+#0 /home/univqzre/public_html/newtest/functions.php(143): PDOStatement->execute()
+#1 /home/univqzre/public_html/newtest/address/delete.php(14): deleteData()
+#2 {main}
+  thrown in /home/univqzre/public_html/newtest/functions.php on line 143
+[27-May-2024 10:48:16 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'cart_id' in 'where clause' in /home/univqzre/public_html/newtest/functions.php:143
+Stack trace:
+#0 /home/univqzre/public_html/newtest/functions.php(143): PDOStatement->execute()
+#1 /home/univqzre/public_html/newtest/address/delete.php(14): deleteData()
+#2 {main}
+  thrown in /home/univqzre/public_html/newtest/functions.php on line 143
+[27-May-2024 10:51:26 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'cart_id' in 'where clause' in /home/univqzre/public_html/newtest/functions.php:143
+Stack trace:
+#0 /home/univqzre/public_html/newtest/functions.php(143): PDOStatement->execute()
+#1 /home/univqzre/public_html/newtest/address/delete.php(14): deleteData()
+#2 {main}
+  thrown in /home/univqzre/public_html/newtest/functions.php on line 143

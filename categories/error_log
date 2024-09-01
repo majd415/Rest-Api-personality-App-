@@ -1,0 +1,30 @@
+[08-Mar-2024 04:06:43 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'univqzre_ecomerce.categories' doesn't exist in /home/univqzre/public_html/newtest/functions.php:26
+Stack trace:
+#0 /home/univqzre/public_html/newtest/functions.php(26): PDOStatement->execute()
+#1 /home/univqzre/public_html/newtest/categories/view.php(4): getAllData()
+#2 {main}
+  thrown in /home/univqzre/public_html/newtest/functions.php on line 26
+[08-Mar-2024 04:20:25 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'univqzre_ecomerce.categories' doesn't exist in /home/univqzre/public_html/newtest/functions.php:26
+Stack trace:
+#0 /home/univqzre/public_html/newtest/functions.php(26): PDOStatement->execute()
+#1 /home/univqzre/public_html/newtest/categories/view.php(4): getAllData()
+#2 {main}
+  thrown in /home/univqzre/public_html/newtest/functions.php on line 26
+[08-Mar-2024 04:20:51 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'univqzre_ecomerce.categories' doesn't exist in /home/univqzre/public_html/newtest/functions.php:26
+Stack trace:
+#0 /home/univqzre/public_html/newtest/functions.php(26): PDOStatement->execute()
+#1 /home/univqzre/public_html/newtest/categories/view.php(4): getAllData()
+#2 {main}
+  thrown in /home/univqzre/public_html/newtest/functions.php on line 26
+[08-Mar-2024 04:20:57 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'univqzre_ecomerce.categories' doesn't exist in /home/univqzre/public_html/newtest/functions.php:26
+Stack trace:
+#0 /home/univqzre/public_html/newtest/functions.php(26): PDOStatement->execute()
+#1 /home/univqzre/public_html/newtest/categories/view.php(4): getAllData()
+#2 {main}
+  thrown in /home/univqzre/public_html/newtest/functions.php on line 26
+[08-Mar-2024 04:23:23 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'univqzre_ecomerce.categories' doesn't exist in /home/univqzre/public_html/newtest/functions.php:26
+Stack trace:
+#0 /home/univqzre/public_html/newtest/functions.php(26): PDOStatement->execute()
+#1 /home/univqzre/public_html/newtest/categories/view.php(6): getAllData()
+#2 {main}
+  thrown in /home/univqzre/public_html/newtest/functions.php on line 26

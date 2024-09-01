@@ -1,0 +1,368 @@
+[21-Apr-2024 18:01:47 UTC] PHP Warning:  Undefined array key "usersid" in /home/univqzre/public_html/newtest/functions.php on line 11
+[21-Apr-2024 18:01:47 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/univqzre/public_html/newtest/functions.php:26
+Stack trace:
+#0 /home/univqzre/public_html/newtest/functions.php(26): PDOStatement->execute()
+#1 /home/univqzre/public_html/newtest/cart/view.php(7): getAllData()
+#2 {main}
+  thrown in /home/univqzre/public_html/newtest/functions.php on line 26
+[21-Apr-2024 18:04:00 UTC] PHP Warning:  Undefined array key "usersid" in /home/univqzre/public_html/newtest/functions.php on line 11
+[21-Apr-2024 18:04:00 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/univqzre/public_html/newtest/functions.php:26
+Stack trace:
+#0 /home/univqzre/public_html/newtest/functions.php(26): PDOStatement->execute()
+#1 /home/univqzre/public_html/newtest/cart/view.php(9): getAllData()
+#2 {main}
+  thrown in /home/univqzre/public_html/newtest/functions.php on line 26
+[29-Apr-2024 09:30:07 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`univqzre_ecomerce`.`cart`, CONSTRAINT `itemsidcartitems` FOREIGN KEY (`cart_itemsid`) REFERENCES `items` (`items_id`) ON DELETE CASCADE ON UPDATE CASCADE) in /home/univqzre/public_html/newtest/functions.php:92
+Stack trace:
+#0 /home/univqzre/public_html/newtest/functions.php(92): PDOStatement->execute()
+#1 /home/univqzre/public_html/newtest/cart/add.php(18): insertData()
+#2 {main}
+  thrown in /home/univqzre/public_html/newtest/functions.php on line 92
+[29-Apr-2024 09:30:12 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`univqzre_ecomerce`.`cart`, CONSTRAINT `itemsidcartitems` FOREIGN KEY (`cart_itemsid`) REFERENCES `items` (`items_id`) ON DELETE CASCADE ON UPDATE CASCADE) in /home/univqzre/public_html/newtest/functions.php:92
+Stack trace:
+#0 /home/univqzre/public_html/newtest/functions.php(92): PDOStatement->execute()
+#1 /home/univqzre/public_html/newtest/cart/add.php(18): insertData()
+#2 {main}
+  thrown in /home/univqzre/public_html/newtest/functions.php on line 92
+[29-Apr-2024 09:30:16 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`univqzre_ecomerce`.`cart`, CONSTRAINT `itemsidcartitems` FOREIGN KEY (`cart_itemsid`) REFERENCES `items` (`items_id`) ON DELETE CASCADE ON UPDATE CASCADE) in /home/univqzre/public_html/newtest/functions.php:92
+Stack trace:
+#0 /home/univqzre/public_html/newtest/functions.php(92): PDOStatement->execute()
+#1 /home/univqzre/public_html/newtest/cart/add.php(18): insertData()
+#2 {main}
+  thrown in /home/univqzre/public_html/newtest/functions.php on line 92
+[29-Apr-2024 09:30:19 UTC] PHP Warning:  Undefined array key "usersid" in /home/univqzre/public_html/newtest/functions.php on line 11
+[29-Apr-2024 09:30:19 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/univqzre/public_html/newtest/functions.php:26
+Stack trace:
+#0 /home/univqzre/public_html/newtest/functions.php(26): PDOStatement->execute()
+#1 /home/univqzre/public_html/newtest/cart/view.php(9): getAllData()
+#2 {main}
+  thrown in /home/univqzre/public_html/newtest/functions.php on line 26
+[29-Apr-2024 09:30:57 UTC] PHP Warning:  Undefined array key "usersid" in /home/univqzre/public_html/newtest/functions.php on line 11
+[29-Apr-2024 09:30:57 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/univqzre/public_html/newtest/functions.php:26
+Stack trace:
+#0 /home/univqzre/public_html/newtest/functions.php(26): PDOStatement->execute()
+#1 /home/univqzre/public_html/newtest/cart/view.php(9): getAllData()
+#2 {main}
+  thrown in /home/univqzre/public_html/newtest/functions.php on line 26
+[29-Apr-2024 09:31:26 UTC] PHP Warning:  Undefined array key "usersid" in /home/univqzre/public_html/newtest/functions.php on line 11
+[29-Apr-2024 09:31:26 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/univqzre/public_html/newtest/functions.php:26
+Stack trace:
+#0 /home/univqzre/public_html/newtest/functions.php(26): PDOStatement->execute()
+#1 /home/univqzre/public_html/newtest/cart/view.php(9): getAllData()
+#2 {main}
+  thrown in /home/univqzre/public_html/newtest/functions.php on line 26
+[29-Apr-2024 09:35:12 UTC] PHP Warning:  Undefined array key "usersid" in /home/univqzre/public_html/newtest/functions.php on line 11
+[29-Apr-2024 09:35:12 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/univqzre/public_html/newtest/functions.php:26
+Stack trace:
+#0 /home/univqzre/public_html/newtest/functions.php(26): PDOStatement->execute()
+#1 /home/univqzre/public_html/newtest/cart/view.php(9): getAllData()
+#2 {main}
+  thrown in /home/univqzre/public_html/newtest/functions.php on line 26
+[29-Apr-2024 09:35:43 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`univqzre_ecomerce`.`cart`, CONSTRAINT `itemsidcartitems` FOREIGN KEY (`cart_itemsid`) REFERENCES `items` (`items_id`) ON DELETE CASCADE ON UPDATE CASCADE) in /home/univqzre/public_html/newtest/functions.php:92
+Stack trace:
+#0 /home/univqzre/public_html/newtest/functions.php(92): PDOStatement->execute()
+#1 /home/univqzre/public_html/newtest/cart/add.php(18): insertData()
+#2 {main}
+  thrown in /home/univqzre/public_html/newtest/functions.php on line 92
+[29-Apr-2024 09:36:21 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`univqzre_ecomerce`.`cart`, CONSTRAINT `itemsidcartitems` FOREIGN KEY (`cart_itemsid`) REFERENCES `items` (`items_id`) ON DELETE CASCADE ON UPDATE CASCADE) in /home/univqzre/public_html/newtest/functions.php:92
+Stack trace:
+#0 /home/univqzre/public_html/newtest/functions.php(92): PDOStatement->execute()
+#1 /home/univqzre/public_html/newtest/cart/add.php(18): insertData()
+#2 {main}
+  thrown in /home/univqzre/public_html/newtest/functions.php on line 92
+[29-Apr-2024 09:36:55 UTC] PHP Warning:  Undefined array key "usersid" in /home/univqzre/public_html/newtest/functions.php on line 11
+[29-Apr-2024 09:36:55 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/univqzre/public_html/newtest/functions.php:26
+Stack trace:
+#0 /home/univqzre/public_html/newtest/functions.php(26): PDOStatement->execute()
+#1 /home/univqzre/public_html/newtest/cart/view.php(9): getAllData()
+#2 {main}
+  thrown in /home/univqzre/public_html/newtest/functions.php on line 26
+[29-Apr-2024 09:37:09 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`univqzre_ecomerce`.`cart`, CONSTRAINT `itemsidcartitems` FOREIGN KEY (`cart_itemsid`) REFERENCES `items` (`items_id`) ON DELETE CASCADE ON UPDATE CASCADE) in /home/univqzre/public_html/newtest/functions.php:92
+Stack trace:
+#0 /home/univqzre/public_html/newtest/functions.php(92): PDOStatement->execute()
+#1 /home/univqzre/public_html/newtest/cart/add.php(18): insertData()
+#2 {main}
+  thrown in /home/univqzre/public_html/newtest/functions.php on line 92
+[29-Apr-2024 09:37:15 UTC] PHP Warning:  Undefined array key "usersid" in /home/univqzre/public_html/newtest/functions.php on line 11
+[29-Apr-2024 09:37:15 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/univqzre/public_html/newtest/functions.php:26
+Stack trace:
+#0 /home/univqzre/public_html/newtest/functions.php(26): PDOStatement->execute()
+#1 /home/univqzre/public_html/newtest/cart/view.php(9): getAllData()
+#2 {main}
+  thrown in /home/univqzre/public_html/newtest/functions.php on line 26
+[29-Apr-2024 09:37:37 UTC] PHP Warning:  Undefined array key "usersid" in /home/univqzre/public_html/newtest/functions.php on line 11
+[29-Apr-2024 09:37:37 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/univqzre/public_html/newtest/functions.php:26
+Stack trace:
+#0 /home/univqzre/public_html/newtest/functions.php(26): PDOStatement->execute()
+#1 /home/univqzre/public_html/newtest/cart/view.php(9): getAllData()
+#2 {main}
+  thrown in /home/univqzre/public_html/newtest/functions.php on line 26
+[01-May-2024 20:14:12 UTC] PHP Warning:  Undefined array key "usersid" in /home/univqzre/public_html/newtest/functions.php on line 11
+[01-May-2024 20:14:12 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/univqzre/public_html/newtest/functions.php:26
+Stack trace:
+#0 /home/univqzre/public_html/newtest/functions.php(26): PDOStatement->execute()
+#1 /home/univqzre/public_html/newtest/cart/view.php(9): getAllData()
+#2 {main}
+  thrown in /home/univqzre/public_html/newtest/functions.php on line 26
+[01-May-2024 20:17:43 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`univqzre_ecomerce`.`cart`, CONSTRAINT `itemsidcartitems` FOREIGN KEY (`cart_itemsid`) REFERENCES `items` (`items_id`) ON DELETE CASCADE ON UPDATE CASCADE) in /home/univqzre/public_html/newtest/functions.php:92
+Stack trace:
+#0 /home/univqzre/public_html/newtest/functions.php(92): PDOStatement->execute()
+#1 /home/univqzre/public_html/newtest/cart/add.php(18): insertData()
+#2 {main}
+  thrown in /home/univqzre/public_html/newtest/functions.php on line 92
+[01-May-2024 20:18:08 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`univqzre_ecomerce`.`cart`, CONSTRAINT `itemsidcartitems` FOREIGN KEY (`cart_itemsid`) REFERENCES `items` (`items_id`) ON DELETE CASCADE ON UPDATE CASCADE) in /home/univqzre/public_html/newtest/functions.php:92
+Stack trace:
+#0 /home/univqzre/public_html/newtest/functions.php(92): PDOStatement->execute()
+#1 /home/univqzre/public_html/newtest/cart/add.php(18): insertData()
+#2 {main}
+  thrown in /home/univqzre/public_html/newtest/functions.php on line 92
+[01-May-2024 20:19:53 UTC] PHP Warning:  Undefined array key "usersid" in /home/univqzre/public_html/newtest/functions.php on line 11
+[01-May-2024 20:19:53 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/univqzre/public_html/newtest/functions.php:26
+Stack trace:
+#0 /home/univqzre/public_html/newtest/functions.php(26): PDOStatement->execute()
+#1 /home/univqzre/public_html/newtest/cart/view.php(9): getAllData()
+#2 {main}
+  thrown in /home/univqzre/public_html/newtest/functions.php on line 26
+[01-May-2024 20:26:33 UTC] PHP Warning:  Undefined array key "usersid" in /home/univqzre/public_html/newtest/functions.php on line 11
+[01-May-2024 20:26:33 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/univqzre/public_html/newtest/functions.php:26
+Stack trace:
+#0 /home/univqzre/public_html/newtest/functions.php(26): PDOStatement->execute()
+#1 /home/univqzre/public_html/newtest/cart/view.php(9): getAllData()
+#2 {main}
+  thrown in /home/univqzre/public_html/newtest/functions.php on line 26
+[01-May-2024 20:38:00 UTC] PHP Warning:  Undefined array key "usersid" in /home/univqzre/public_html/newtest/functions.php on line 11
+[01-May-2024 20:38:00 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/univqzre/public_html/newtest/functions.php:26
+Stack trace:
+#0 /home/univqzre/public_html/newtest/functions.php(26): PDOStatement->execute()
+#1 /home/univqzre/public_html/newtest/cart/view.php(9): getAllData()
+#2 {main}
+  thrown in /home/univqzre/public_html/newtest/functions.php on line 26
+[01-May-2024 20:40:06 UTC] PHP Warning:  Undefined array key "usersid" in /home/univqzre/public_html/newtest/functions.php on line 11
+[01-May-2024 20:40:06 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/univqzre/public_html/newtest/functions.php:26
+Stack trace:
+#0 /home/univqzre/public_html/newtest/functions.php(26): PDOStatement->execute()
+#1 /home/univqzre/public_html/newtest/cart/view.php(9): getAllData()
+#2 {main}
+  thrown in /home/univqzre/public_html/newtest/functions.php on line 26
+[01-May-2024 20:44:52 UTC] PHP Warning:  Undefined array key "usersid" in /home/univqzre/public_html/newtest/functions.php on line 11
+[01-May-2024 20:44:52 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/univqzre/public_html/newtest/functions.php:26
+Stack trace:
+#0 /home/univqzre/public_html/newtest/functions.php(26): PDOStatement->execute()
+#1 /home/univqzre/public_html/newtest/cart/view.php(9): getAllData()
+#2 {main}
+  thrown in /home/univqzre/public_html/newtest/functions.php on line 26
+[01-May-2024 20:47:28 UTC] PHP Warning:  Undefined array key "usersid" in /home/univqzre/public_html/newtest/functions.php on line 11
+[01-May-2024 20:47:28 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/univqzre/public_html/newtest/functions.php:26
+Stack trace:
+#0 /home/univqzre/public_html/newtest/functions.php(26): PDOStatement->execute()
+#1 /home/univqzre/public_html/newtest/cart/view.php(9): getAllData()
+#2 {main}
+  thrown in /home/univqzre/public_html/newtest/functions.php on line 26
+[01-May-2024 20:51:15 UTC] PHP Warning:  Undefined array key "usersid" in /home/univqzre/public_html/newtest/functions.php on line 11
+[01-May-2024 20:51:15 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/univqzre/public_html/newtest/functions.php:26
+Stack trace:
+#0 /home/univqzre/public_html/newtest/functions.php(26): PDOStatement->execute()
+#1 /home/univqzre/public_html/newtest/cart/view.php(9): getAllData()
+#2 {main}
+  thrown in /home/univqzre/public_html/newtest/functions.php on line 26
+[01-May-2024 20:52:49 UTC] PHP Warning:  Undefined array key "usersid" in /home/univqzre/public_html/newtest/functions.php on line 11
+[01-May-2024 20:52:49 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/univqzre/public_html/newtest/functions.php:26
+Stack trace:
+#0 /home/univqzre/public_html/newtest/functions.php(26): PDOStatement->execute()
+#1 /home/univqzre/public_html/newtest/cart/view.php(9): getAllData()
+#2 {main}
+  thrown in /home/univqzre/public_html/newtest/functions.php on line 26
+[01-May-2024 20:54:06 UTC] PHP Warning:  Undefined array key "usersid" in /home/univqzre/public_html/newtest/functions.php on line 11
+[01-May-2024 20:54:06 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/univqzre/public_html/newtest/functions.php:26
+Stack trace:
+#0 /home/univqzre/public_html/newtest/functions.php(26): PDOStatement->execute()
+#1 /home/univqzre/public_html/newtest/cart/view.php(9): getAllData()
+#2 {main}
+  thrown in /home/univqzre/public_html/newtest/functions.php on line 26
+[01-May-2024 20:55:01 UTC] PHP Warning:  Undefined array key "usersid" in /home/univqzre/public_html/newtest/functions.php on line 11
+[01-May-2024 20:55:01 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/univqzre/public_html/newtest/functions.php:26
+Stack trace:
+#0 /home/univqzre/public_html/newtest/functions.php(26): PDOStatement->execute()
+#1 /home/univqzre/public_html/newtest/cart/view.php(9): getAllData()
+#2 {main}
+  thrown in /home/univqzre/public_html/newtest/functions.php on line 26
+[01-May-2024 20:56:18 UTC] PHP Warning:  Undefined array key "usersid" in /home/univqzre/public_html/newtest/functions.php on line 11
+[01-May-2024 20:56:18 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/univqzre/public_html/newtest/functions.php:26
+Stack trace:
+#0 /home/univqzre/public_html/newtest/functions.php(26): PDOStatement->execute()
+#1 /home/univqzre/public_html/newtest/cart/view.php(9): getAllData()
+#2 {main}
+  thrown in /home/univqzre/public_html/newtest/functions.php on line 26
+[01-May-2024 20:57:13 UTC] PHP Warning:  Undefined array key "usersid" in /home/univqzre/public_html/newtest/functions.php on line 11
+[01-May-2024 20:57:13 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/univqzre/public_html/newtest/functions.php:26
+Stack trace:
+#0 /home/univqzre/public_html/newtest/functions.php(26): PDOStatement->execute()
+#1 /home/univqzre/public_html/newtest/cart/view.php(9): getAllData()
+#2 {main}
+  thrown in /home/univqzre/public_html/newtest/functions.php on line 26
+[01-May-2024 20:58:30 UTC] PHP Warning:  Undefined array key "usersid" in /home/univqzre/public_html/newtest/functions.php on line 11
+[01-May-2024 20:58:30 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/univqzre/public_html/newtest/functions.php:26
+Stack trace:
+#0 /home/univqzre/public_html/newtest/functions.php(26): PDOStatement->execute()
+#1 /home/univqzre/public_html/newtest/cart/view.php(9): getAllData()
+#2 {main}
+  thrown in /home/univqzre/public_html/newtest/functions.php on line 26
+[01-May-2024 21:10:57 UTC] PHP Warning:  Undefined array key "usersid" in /home/univqzre/public_html/newtest/functions.php on line 11
+[01-May-2024 21:10:57 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/univqzre/public_html/newtest/functions.php:26
+Stack trace:
+#0 /home/univqzre/public_html/newtest/functions.php(26): PDOStatement->execute()
+#1 /home/univqzre/public_html/newtest/cart/view.php(9): getAllData()
+#2 {main}
+  thrown in /home/univqzre/public_html/newtest/functions.php on line 26
+[01-May-2024 21:14:00 UTC] PHP Warning:  Undefined array key "usersid" in /home/univqzre/public_html/newtest/functions.php on line 11
+[01-May-2024 21:14:00 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/univqzre/public_html/newtest/functions.php:26
+Stack trace:
+#0 /home/univqzre/public_html/newtest/functions.php(26): PDOStatement->execute()
+#1 /home/univqzre/public_html/newtest/cart/view.php(9): getAllData()
+#2 {main}
+  thrown in /home/univqzre/public_html/newtest/functions.php on line 26
+[01-May-2024 21:18:25 UTC] PHP Warning:  Undefined array key "usersid" in /home/univqzre/public_html/newtest/functions.php on line 11
+[01-May-2024 21:18:25 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/univqzre/public_html/newtest/functions.php:26
+Stack trace:
+#0 /home/univqzre/public_html/newtest/functions.php(26): PDOStatement->execute()
+#1 /home/univqzre/public_html/newtest/cart/view.php(9): getAllData()
+#2 {main}
+  thrown in /home/univqzre/public_html/newtest/functions.php on line 26
+[03-May-2024 08:01:45 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`univqzre_ecomerce`.`cart`, CONSTRAINT `itemsidcartitems` FOREIGN KEY (`cart_itemsid`) REFERENCES `items` (`items_id`) ON DELETE CASCADE ON UPDATE CASCADE) in /home/univqzre/public_html/newtest/functions.php:92
+Stack trace:
+#0 /home/univqzre/public_html/newtest/functions.php(92): PDOStatement->execute()
+#1 /home/univqzre/public_html/newtest/cart/add.php(18): insertData()
+#2 {main}
+  thrown in /home/univqzre/public_html/newtest/functions.php on line 92
+[04-May-2024 10:54:10 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`univqzre_ecomerce`.`cart`, CONSTRAINT `itemsidcartitems` FOREIGN KEY (`cart_itemsid`) REFERENCES `items` (`items_id`) ON DELETE CASCADE ON UPDATE CASCADE) in /home/univqzre/public_html/newtest/functions.php:92
+Stack trace:
+#0 /home/univqzre/public_html/newtest/functions.php(92): PDOStatement->execute()
+#1 /home/univqzre/public_html/newtest/cart/add.php(18): insertData()
+#2 {main}
+  thrown in /home/univqzre/public_html/newtest/functions.php on line 92
+[04-May-2024 10:54:10 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`univqzre_ecomerce`.`cart`, CONSTRAINT `itemsidcartitems` FOREIGN KEY (`cart_itemsid`) REFERENCES `items` (`items_id`) ON DELETE CASCADE ON UPDATE CASCADE) in /home/univqzre/public_html/newtest/functions.php:92
+Stack trace:
+#0 /home/univqzre/public_html/newtest/functions.php(92): PDOStatement->execute()
+#1 /home/univqzre/public_html/newtest/cart/add.php(18): insertData()
+#2 {main}
+  thrown in /home/univqzre/public_html/newtest/functions.php on line 92
+[04-May-2024 10:54:19 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`univqzre_ecomerce`.`cart`, CONSTRAINT `itemsidcartitems` FOREIGN KEY (`cart_itemsid`) REFERENCES `items` (`items_id`) ON DELETE CASCADE ON UPDATE CASCADE) in /home/univqzre/public_html/newtest/functions.php:92
+Stack trace:
+#0 /home/univqzre/public_html/newtest/functions.php(92): PDOStatement->execute()
+#1 /home/univqzre/public_html/newtest/cart/add.php(18): insertData()
+#2 {main}
+  thrown in /home/univqzre/public_html/newtest/functions.php on line 92
+[04-May-2024 10:54:19 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`univqzre_ecomerce`.`cart`, CONSTRAINT `itemsidcartitems` FOREIGN KEY (`cart_itemsid`) REFERENCES `items` (`items_id`) ON DELETE CASCADE ON UPDATE CASCADE) in /home/univqzre/public_html/newtest/functions.php:92
+Stack trace:
+#0 /home/univqzre/public_html/newtest/functions.php(92): PDOStatement->execute()
+#1 /home/univqzre/public_html/newtest/cart/add.php(18): insertData()
+#2 {main}
+  thrown in /home/univqzre/public_html/newtest/functions.php on line 92
+[05-May-2024 10:33:08 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`univqzre_ecomerce`.`cart`, CONSTRAINT `itemsidcartitems` FOREIGN KEY (`cart_itemsid`) REFERENCES `items` (`items_id`) ON DELETE CASCADE ON UPDATE CASCADE) in /home/univqzre/public_html/newtest/functions.php:92
+Stack trace:
+#0 /home/univqzre/public_html/newtest/functions.php(92): PDOStatement->execute()
+#1 /home/univqzre/public_html/newtest/cart/add.php(18): insertData()
+#2 {main}
+  thrown in /home/univqzre/public_html/newtest/functions.php on line 92
+[05-May-2024 10:34:37 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`univqzre_ecomerce`.`cart`, CONSTRAINT `itemsidcartitems` FOREIGN KEY (`cart_itemsid`) REFERENCES `items` (`items_id`) ON DELETE CASCADE ON UPDATE CASCADE) in /home/univqzre/public_html/newtest/functions.php:92
+Stack trace:
+#0 /home/univqzre/public_html/newtest/functions.php(92): PDOStatement->execute()
+#1 /home/univqzre/public_html/newtest/cart/add.php(18): insertData()
+#2 {main}
+  thrown in /home/univqzre/public_html/newtest/functions.php on line 92
+[05-May-2024 10:34:41 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`univqzre_ecomerce`.`cart`, CONSTRAINT `itemsidcartitems` FOREIGN KEY (`cart_itemsid`) REFERENCES `items` (`items_id`) ON DELETE CASCADE ON UPDATE CASCADE) in /home/univqzre/public_html/newtest/functions.php:92
+Stack trace:
+#0 /home/univqzre/public_html/newtest/functions.php(92): PDOStatement->execute()
+#1 /home/univqzre/public_html/newtest/cart/add.php(18): insertData()
+#2 {main}
+  thrown in /home/univqzre/public_html/newtest/functions.php on line 92
+[05-May-2024 10:55:50 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`univqzre_ecomerce`.`cart`, CONSTRAINT `itemsidcartitems` FOREIGN KEY (`cart_itemsid`) REFERENCES `items` (`items_id`) ON DELETE CASCADE ON UPDATE CASCADE) in /home/univqzre/public_html/newtest/functions.php:92
+Stack trace:
+#0 /home/univqzre/public_html/newtest/functions.php(92): PDOStatement->execute()
+#1 /home/univqzre/public_html/newtest/cart/add.php(18): insertData()
+#2 {main}
+  thrown in /home/univqzre/public_html/newtest/functions.php on line 92
+[05-May-2024 11:00:09 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`univqzre_ecomerce`.`cart`, CONSTRAINT `itemsidcartitems` FOREIGN KEY (`cart_itemsid`) REFERENCES `items` (`items_id`) ON DELETE CASCADE ON UPDATE CASCADE) in /home/univqzre/public_html/newtest/functions.php:92
+Stack trace:
+#0 /home/univqzre/public_html/newtest/functions.php(92): PDOStatement->execute()
+#1 /home/univqzre/public_html/newtest/cart/add.php(18): insertData()
+#2 {main}
+  thrown in /home/univqzre/public_html/newtest/functions.php on line 92
+[05-May-2024 11:02:23 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`univqzre_ecomerce`.`cart`, CONSTRAINT `itemsidcartitems` FOREIGN KEY (`cart_itemsid`) REFERENCES `items` (`items_id`) ON DELETE CASCADE ON UPDATE CASCADE) in /home/univqzre/public_html/newtest/functions.php:92
+Stack trace:
+#0 /home/univqzre/public_html/newtest/functions.php(92): PDOStatement->execute()
+#1 /home/univqzre/public_html/newtest/cart/add.php(18): insertData()
+#2 {main}
+  thrown in /home/univqzre/public_html/newtest/functions.php on line 92
+[05-May-2024 11:05:18 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`univqzre_ecomerce`.`cart`, CONSTRAINT `itemsidcartitems` FOREIGN KEY (`cart_itemsid`) REFERENCES `items` (`items_id`) ON DELETE CASCADE ON UPDATE CASCADE) in /home/univqzre/public_html/newtest/functions.php:92
+Stack trace:
+#0 /home/univqzre/public_html/newtest/functions.php(92): PDOStatement->execute()
+#1 /home/univqzre/public_html/newtest/cart/add.php(18): insertData()
+#2 {main}
+  thrown in /home/univqzre/public_html/newtest/functions.php on line 92
+[05-May-2024 11:12:26 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`univqzre_ecomerce`.`cart`, CONSTRAINT `itemsidcartitems` FOREIGN KEY (`cart_itemsid`) REFERENCES `items` (`items_id`) ON DELETE CASCADE ON UPDATE CASCADE) in /home/univqzre/public_html/newtest/functions.php:92
+Stack trace:
+#0 /home/univqzre/public_html/newtest/functions.php(92): PDOStatement->execute()
+#1 /home/univqzre/public_html/newtest/cart/add.php(18): insertData()
+#2 {main}
+  thrown in /home/univqzre/public_html/newtest/functions.php on line 92
+[05-May-2024 11:14:33 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`univqzre_ecomerce`.`cart`, CONSTRAINT `itemsidcartitems` FOREIGN KEY (`cart_itemsid`) REFERENCES `items` (`items_id`) ON DELETE CASCADE ON UPDATE CASCADE) in /home/univqzre/public_html/newtest/functions.php:92
+Stack trace:
+#0 /home/univqzre/public_html/newtest/functions.php(92): PDOStatement->execute()
+#1 /home/univqzre/public_html/newtest/cart/add.php(18): insertData()
+#2 {main}
+  thrown in /home/univqzre/public_html/newtest/functions.php on line 92
+[05-May-2024 15:26:49 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`univqzre_ecomerce`.`cart`, CONSTRAINT `itemsidcartitems` FOREIGN KEY (`cart_itemsid`) REFERENCES `items` (`items_id`) ON DELETE CASCADE ON UPDATE CASCADE) in /home/univqzre/public_html/newtest/functions.php:92
+Stack trace:
+#0 /home/univqzre/public_html/newtest/functions.php(92): PDOStatement->execute()
+#1 /home/univqzre/public_html/newtest/cart/add.php(18): insertData()
+#2 {main}
+  thrown in /home/univqzre/public_html/newtest/functions.php on line 92
+[05-May-2024 15:28:22 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'AND cart_usersid=21' at line 1 in /home/univqzre/public_html/newtest/functions.php:56
+Stack trace:
+#0 /home/univqzre/public_html/newtest/functions.php(56): PDOStatement->execute()
+#1 /home/univqzre/public_html/newtest/cart/add.php(10): getData()
+#2 {main}
+  thrown in /home/univqzre/public_html/newtest/functions.php on line 56
+[05-May-2024 15:29:17 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`univqzre_ecomerce`.`cart`, CONSTRAINT `itemsidcartitems` FOREIGN KEY (`cart_itemsid`) REFERENCES `items` (`items_id`) ON DELETE CASCADE ON UPDATE CASCADE) in /home/univqzre/public_html/newtest/functions.php:92
+Stack trace:
+#0 /home/univqzre/public_html/newtest/functions.php(92): PDOStatement->execute()
+#1 /home/univqzre/public_html/newtest/cart/add.php(18): insertData()
+#2 {main}
+  thrown in /home/univqzre/public_html/newtest/functions.php on line 92
+[05-May-2024 15:38:06 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`univqzre_ecomerce`.`cart`, CONSTRAINT `itemsidcartitems` FOREIGN KEY (`cart_itemsid`) REFERENCES `items` (`items_id`) ON DELETE CASCADE ON UPDATE CASCADE) in /home/univqzre/public_html/newtest/functions.php:92
+Stack trace:
+#0 /home/univqzre/public_html/newtest/functions.php(92): PDOStatement->execute()
+#1 /home/univqzre/public_html/newtest/cart/add.php(17): insertData()
+#2 {main}
+  thrown in /home/univqzre/public_html/newtest/functions.php on line 92
+[05-May-2024 15:51:10 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`univqzre_ecomerce`.`cart`, CONSTRAINT `itemsidcartitems` FOREIGN KEY (`cart_itemsid`) REFERENCES `items` (`items_id`) ON DELETE CASCADE ON UPDATE CASCADE) in /home/univqzre/public_html/newtest/functions.php:92
+Stack trace:
+#0 /home/univqzre/public_html/newtest/functions.php(92): PDOStatement->execute()
+#1 /home/univqzre/public_html/newtest/cart/add.php(18): insertData()
+#2 {main}
+  thrown in /home/univqzre/public_html/newtest/functions.php on line 92
+[05-May-2024 15:51:51 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`univqzre_ecomerce`.`cart`, CONSTRAINT `itemsidcartitems` FOREIGN KEY (`cart_itemsid`) REFERENCES `items` (`items_id`) ON DELETE CASCADE ON UPDATE CASCADE) in /home/univqzre/public_html/newtest/functions.php:92
+Stack trace:
+#0 /home/univqzre/public_html/newtest/functions.php(92): PDOStatement->execute()
+#1 /home/univqzre/public_html/newtest/cart/add.php(18): insertData()
+#2 {main}
+  thrown in /home/univqzre/public_html/newtest/functions.php on line 92
+[06-May-2024 10:47:56 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`univqzre_ecomerce`.`cart`, CONSTRAINT `itemsidcartitems` FOREIGN KEY (`cart_itemsid`) REFERENCES `items` (`items_id`) ON DELETE CASCADE ON UPDATE CASCADE) in /home/univqzre/public_html/newtest/functions.php:92
+Stack trace:
+#0 /home/univqzre/public_html/newtest/functions.php(92): PDOStatement->execute()
+#1 /home/univqzre/public_html/newtest/cart/add.php(18): insertData()
+#2 {main}
+  thrown in /home/univqzre/public_html/newtest/functions.php on line 92
+[07-May-2024 11:01:01 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`univqzre_ecomerce`.`cart`, CONSTRAINT `itemsidcartitems` FOREIGN KEY (`cart_itemsid`) REFERENCES `items` (`items_id`) ON DELETE CASCADE ON UPDATE CASCADE) in /home/univqzre/public_html/newtest/functions.php:92
+Stack trace:
+#0 /home/univqzre/public_html/newtest/functions.php(92): PDOStatement->execute()
+#1 /home/univqzre/public_html/newtest/cart/add.php(18): insertData()
+#2 {main}
+  thrown in /home/univqzre/public_html/newtest/functions.php on line 92
+[07-May-2024 15:17:53 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`univqzre_ecomerce`.`cart`, CONSTRAINT `itemsidcartitems` FOREIGN KEY (`cart_itemsid`) REFERENCES `items` (`items_id`) ON DELETE CASCADE ON UPDATE CASCADE) in /home/univqzre/public_html/newtest/functions.php:92
+Stack trace:
+#0 /home/univqzre/public_html/newtest/functions.php(92): PDOStatement->execute()
+#1 /home/univqzre/public_html/newtest/cart/add.php(18): insertData()
+#2 {main}
+  thrown in /home/univqzre/public_html/newtest/functions.php on line 92

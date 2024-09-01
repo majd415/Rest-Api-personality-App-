@@ -1,0 +1,128 @@
+[26-Mar-2024 11:42:06 America/New_York] PHP Warning:  Undefined array key "id" in /home/univqzre/public_html/newtest/functions.php on line 11
+[26-Mar-2024 11:42:06 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/univqzre/public_html/newtest/functions.php:26
+Stack trace:
+#0 /home/univqzre/public_html/newtest/functions.php(26): PDOStatement->execute()
+#1 /home/univqzre/public_html/newtest/items/items.php(6): getAllData()
+#2 {main}
+  thrown in /home/univqzre/public_html/newtest/functions.php on line 26
+[26-Mar-2024 11:43:35 America/New_York] PHP Warning:  Undefined array key "id" in /home/univqzre/public_html/newtest/functions.php on line 11
+[27-Mar-2024 04:18:20 America/New_York] PHP Warning:  Undefined array key "id" in /home/univqzre/public_html/newtest/functions.php on line 11
+[27-Mar-2024 04:21:00 America/New_York] PHP Warning:  Undefined array key "id" in /home/univqzre/public_html/newtest/functions.php on line 11
+[27-Mar-2024 04:21:00 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/univqzre/public_html/newtest/functions.php:26
+Stack trace:
+#0 /home/univqzre/public_html/newtest/functions.php(26): PDOStatement->execute()
+#1 /home/univqzre/public_html/newtest/items/items.php(6): getAllData()
+#2 {main}
+  thrown in /home/univqzre/public_html/newtest/functions.php on line 26
+[27-Mar-2024 04:21:17 America/New_York] PHP Warning:  Undefined array key "id" in /home/univqzre/public_html/newtest/functions.php on line 11
+[27-Mar-2024 04:21:17 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/univqzre/public_html/newtest/functions.php:26
+Stack trace:
+#0 /home/univqzre/public_html/newtest/functions.php(26): PDOStatement->execute()
+#1 /home/univqzre/public_html/newtest/items/items.php(6): getAllData()
+#2 {main}
+  thrown in /home/univqzre/public_html/newtest/functions.php on line 26
+[27-Mar-2024 04:22:57 America/New_York] PHP Warning:  Undefined array key "id" in /home/univqzre/public_html/newtest/functions.php on line 11
+[27-Mar-2024 04:23:32 America/New_York] PHP Warning:  Undefined array key "id" in /home/univqzre/public_html/newtest/functions.php on line 11
+[27-Mar-2024 04:23:32 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/univqzre/public_html/newtest/functions.php:26
+Stack trace:
+#0 /home/univqzre/public_html/newtest/functions.php(26): PDOStatement->execute()
+#1 /home/univqzre/public_html/newtest/items/items.php(6): getAllData()
+#2 {main}
+  thrown in /home/univqzre/public_html/newtest/functions.php on line 26
+[27-Mar-2024 04:23:40 America/New_York] PHP Warning:  Undefined array key "id" in /home/univqzre/public_html/newtest/functions.php on line 11
+[27-Mar-2024 04:23:40 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/univqzre/public_html/newtest/functions.php:26
+Stack trace:
+#0 /home/univqzre/public_html/newtest/functions.php(26): PDOStatement->execute()
+#1 /home/univqzre/public_html/newtest/items/items.php(6): getAllData()
+#2 {main}
+  thrown in /home/univqzre/public_html/newtest/functions.php on line 26
+[27-Mar-2024 04:25:46 America/New_York] PHP Warning:  Undefined array key "id" in /home/univqzre/public_html/newtest/functions.php on line 11
+[27-Mar-2024 04:25:46 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/univqzre/public_html/newtest/functions.php:26
+Stack trace:
+#0 /home/univqzre/public_html/newtest/functions.php(26): PDOStatement->execute()
+#1 /home/univqzre/public_html/newtest/items/items.php(8): getAllData()
+#2 {main}
+  thrown in /home/univqzre/public_html/newtest/functions.php on line 26
+[27-Mar-2024 04:32:31 America/New_York] PHP Warning:  Undefined array key "id" in /home/univqzre/public_html/newtest/functions.php on line 11
+[27-Mar-2024 04:32:31 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/univqzre/public_html/newtest/functions.php:26
+Stack trace:
+#0 /home/univqzre/public_html/newtest/functions.php(26): PDOStatement->execute()
+#1 /home/univqzre/public_html/newtest/items/items.php(9): getAllData()
+#2 {main}
+  thrown in /home/univqzre/public_html/newtest/functions.php on line 26
+[27-Mar-2024 04:33:49 America/New_York] PHP Warning:  Undefined array key "id" in /home/univqzre/public_html/newtest/functions.php on line 11
+[27-Mar-2024 04:34:05 America/New_York] PHP Warning:  Undefined array key "id" in /home/univqzre/public_html/newtest/functions.php on line 11
+[27-Mar-2024 04:40:03 America/New_York] PHP Warning:  Undefined array key "id" in /home/univqzre/public_html/newtest/functions.php on line 11
+[27-Mar-2024 04:40:03 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/univqzre/public_html/newtest/functions.php:26
+Stack trace:
+#0 /home/univqzre/public_html/newtest/functions.php(26): PDOStatement->execute()
+#1 /home/univqzre/public_html/newtest/items/items.php(8): getAllData()
+#2 {main}
+  thrown in /home/univqzre/public_html/newtest/functions.php on line 26
+[27-Mar-2024 04:41:16 America/New_York] PHP Warning:  Undefined array key "id" in /home/univqzre/public_html/newtest/functions.php on line 11
+[27-Mar-2024 04:41:16 America/New_York] PHP Fatal error:  Uncaught TypeError: PDOStatement::execute(): Argument #1 ($params) must be of type ?array, string given in /home/univqzre/public_html/newtest/functions.php:26
+Stack trace:
+#0 /home/univqzre/public_html/newtest/functions.php(26): PDOStatement->execute()
+#1 /home/univqzre/public_html/newtest/items/items.php(8): getAllData()
+#2 {main}
+  thrown in /home/univqzre/public_html/newtest/functions.php on line 26
+[27-Mar-2024 04:44:27 America/New_York] PHP Warning:  Undefined array key "id" in /home/univqzre/public_html/newtest/functions.php on line 11
+[27-Mar-2024 04:44:27 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/univqzre/public_html/newtest/functions.php:55
+Stack trace:
+#0 /home/univqzre/public_html/newtest/functions.php(55): PDOStatement->execute()
+#1 /home/univqzre/public_html/newtest/items/items.php(8): getData()
+#2 {main}
+  thrown in /home/univqzre/public_html/newtest/functions.php on line 55
+[27-Mar-2024 04:57:01 America/New_York] PHP Warning:  Undefined array key "id" in /home/univqzre/public_html/newtest/functions.php on line 11
+[27-Mar-2024 04:57:22 America/New_York] PHP Warning:  Undefined array key "id" in /home/univqzre/public_html/newtest/functions.php on line 11
+[27-Mar-2024 04:57:26 America/New_York] PHP Warning:  Undefined array key "id" in /home/univqzre/public_html/newtest/functions.php on line 11
+[27-Mar-2024 04:57:32 America/New_York] PHP Warning:  Undefined array key "id" in /home/univqzre/public_html/newtest/functions.php on line 11
+[27-Mar-2024 05:03:06 America/New_York] PHP Warning:  Undefined array key "id" in /home/univqzre/public_html/newtest/functions.php on line 11
+[27-Mar-2024 05:03:40 America/New_York] PHP Warning:  Undefined array key "id" in /home/univqzre/public_html/newtest/functions.php on line 11
+[27-Mar-2024 05:05:42 America/New_York] PHP Warning:  Undefined array key "id" in /home/univqzre/public_html/newtest/functions.php on line 11
+[27-Mar-2024 05:05:42 America/New_York] PHP Warning:  Undefined variable $data in /home/univqzre/public_html/newtest/items/items.php on line 15
+[27-Mar-2024 05:06:04 America/New_York] PHP Warning:  Undefined array key "id" in /home/univqzre/public_html/newtest/functions.php on line 11
+[27-Mar-2024 05:06:04 America/New_York] PHP Warning:  Undefined variable $data in /home/univqzre/public_html/newtest/items/items.php on line 15
+[27-Mar-2024 05:08:47 America/New_York] PHP Warning:  Undefined array key "id" in /home/univqzre/public_html/newtest/functions.php on line 11
+[27-Mar-2024 05:09:44 America/New_York] PHP Warning:  Undefined array key "id" in /home/univqzre/public_html/newtest/functions.php on line 11
+[27-Mar-2024 05:10:02 America/New_York] PHP Warning:  Undefined array key "id" in /home/univqzre/public_html/newtest/functions.php on line 11
+[27-Mar-2024 05:10:46 America/New_York] PHP Warning:  Undefined array key "id" in /home/univqzre/public_html/newtest/functions.php on line 11
+[27-Mar-2024 05:11:55 America/New_York] PHP Warning:  Undefined array key "id" in /home/univqzre/public_html/newtest/functions.php on line 11
+[27-Mar-2024 05:12:03 America/New_York] PHP Warning:  Undefined array key "id" in /home/univqzre/public_html/newtest/functions.php on line 11
+[27-Mar-2024 05:12:13 America/New_York] PHP Warning:  Undefined array key "id" in /home/univqzre/public_html/newtest/functions.php on line 11
+[27-Mar-2024 05:12:18 America/New_York] PHP Warning:  Undefined array key "id" in /home/univqzre/public_html/newtest/functions.php on line 11
+[27-Mar-2024 05:12:23 America/New_York] PHP Warning:  Undefined array key "id" in /home/univqzre/public_html/newtest/functions.php on line 11
+[27-Mar-2024 05:12:28 America/New_York] PHP Warning:  Undefined array key "id" in /home/univqzre/public_html/newtest/functions.php on line 11
+[27-Mar-2024 05:12:33 America/New_York] PHP Warning:  Undefined array key "id" in /home/univqzre/public_html/newtest/functions.php on line 11
+[27-Mar-2024 05:14:38 America/New_York] PHP Warning:  Undefined array key "id" in /home/univqzre/public_html/newtest/items/items.php on line 8
+[27-Mar-2024 05:14:38 America/New_York] PHP Warning:  Undefined array key "" in /home/univqzre/public_html/newtest/functions.php on line 11
+[27-Mar-2024 05:14:51 America/New_York] PHP Warning:  Undefined array key "id" in /home/univqzre/public_html/newtest/items/items.php on line 8
+[27-Mar-2024 05:14:51 America/New_York] PHP Warning:  Undefined array key "" in /home/univqzre/public_html/newtest/functions.php on line 11
+[27-Mar-2024 05:14:57 America/New_York] PHP Warning:  Undefined array key "id" in /home/univqzre/public_html/newtest/items/items.php on line 8
+[27-Mar-2024 05:14:57 America/New_York] PHP Warning:  Undefined array key "" in /home/univqzre/public_html/newtest/functions.php on line 11
+[27-Mar-2024 05:15:02 America/New_York] PHP Warning:  Undefined array key "id" in /home/univqzre/public_html/newtest/items/items.php on line 8
+[27-Mar-2024 05:15:02 America/New_York] PHP Warning:  Undefined array key "" in /home/univqzre/public_html/newtest/functions.php on line 11
+[27-Mar-2024 05:20:23 America/New_York] PHP Parse error:  syntax error, unexpected token ";", expecting ")" in /home/univqzre/public_html/newtest/items/items.php on line 10
+[27-Mar-2024 05:20:28 America/New_York] PHP Parse error:  syntax error, unexpected token ";", expecting ")" in /home/univqzre/public_html/newtest/items/items.php on line 10
+[27-Mar-2024 05:21:00 America/New_York] PHP Parse error:  syntax error, unexpected token ";", expecting ")" in /home/univqzre/public_html/newtest/items/items.php on line 10
+[27-Mar-2024 05:24:05 America/New_York] PHP Parse error:  syntax error, unexpected token ";", expecting ")" in /home/univqzre/public_html/newtest/items/items.php on line 12
+[27-Mar-2024 05:24:08 America/New_York] PHP Parse error:  syntax error, unexpected token ";", expecting ")" in /home/univqzre/public_html/newtest/items/items.php on line 12
+[27-Mar-2024 05:26:50 America/New_York] PHP Warning:  Undefined array key "id" in /home/univqzre/public_html/newtest/items/items.php on line 10
+[27-Mar-2024 05:26:50 America/New_York] PHP Warning:  Undefined array key "" in /home/univqzre/public_html/newtest/functions.php on line 11
+[27-Mar-2024 05:28:19 America/New_York] PHP Warning:  Undefined array key "idct" in /home/univqzre/public_html/newtest/functions.php on line 11
+[27-Mar-2024 05:28:25 America/New_York] PHP Warning:  Undefined array key "idct" in /home/univqzre/public_html/newtest/functions.php on line 11
+[27-Mar-2024 05:29:32 America/New_York] PHP Warning:  Undefined array key "idct" in /home/univqzre/public_html/newtest/functions.php on line 11
+[27-Mar-2024 05:29:32 America/New_York] PHP Fatal error:  Uncaught TypeError: PDOStatement::execute(): Argument #1 ($params) must be of type ?array, string given in /home/univqzre/public_html/newtest/items/items.php:14
+Stack trace:
+#0 /home/univqzre/public_html/newtest/items/items.php(14): PDOStatement->execute()
+#1 {main}
+  thrown in /home/univqzre/public_html/newtest/items/items.php on line 14
+[27-Mar-2024 05:30:56 America/New_York] PHP Warning:  Undefined array key "idct" in /home/univqzre/public_html/newtest/functions.php on line 11
+[27-Mar-2024 05:35:28 America/New_York] PHP Warning:  Undefined array key "idct" in /home/univqzre/public_html/newtest/functions.php on line 11
+[28-Mar-2024 04:51:52 America/New_York] PHP Warning:  Undefined array key "idct" in /home/univqzre/public_html/newtest/functions.php on line 11
+[28-Mar-2024 04:52:04 America/New_York] PHP Warning:  Undefined array key "idct" in /home/univqzre/public_html/newtest/functions.php on line 11
+[28-Mar-2024 04:52:09 America/New_York] PHP Warning:  Undefined array key "idct" in /home/univqzre/public_html/newtest/functions.php on line 11
+[28-Mar-2024 04:52:12 America/New_York] PHP Warning:  Undefined array key "idct" in /home/univqzre/public_html/newtest/functions.php on line 11
+[28-Mar-2024 04:52:15 America/New_York] PHP Warning:  Undefined array key "idct" in /home/univqzre/public_html/newtest/functions.php on line 11
+[28-Mar-2024 04:55:17 America/New_York] PHP Warning:  Undefined array key "idct" in /home/univqzre/public_html/newtest/functions.php on line 11
+[28-Mar-2024 04:55:46 America/New_York] PHP Warning:  Undefined array key "idct" in /home/univqzre/public_html/newtest/functions.php on line 11
